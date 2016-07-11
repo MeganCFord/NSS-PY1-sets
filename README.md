@@ -1,4 +1,4 @@
-# Python Dictionary Exercises
+# Python Sets Exercises
 
 **Author**: Megan Ford July 2016 
 
@@ -14,7 +14,9 @@ NSS Back-End Milestone 1 (Foundations) Exercise 5:
 
 [Requirements For Project](https://github.com/nashville-software-school/python-milestones/blob/master/01-foundations/exercises/FND_KILL_NICKELBACK.md)
 
+NSS Back-End Milestone 1 (Foundations) Exercise 6: 
 
+[Requirements For Project](https://github.com/nashville-software-school/python-milestones/blob/master/01-foundations/exercises/FND_SETS.md)
 
 ## Install
 
@@ -22,11 +24,12 @@ NSS Back-End Milestone 1 (Foundations) Exercise 5:
 ``` 
 git clone https://github.com/MeganCFord/NSS-PY1-dictionaries.git
 cd sets
-python nickelback.py 
+python nickelback.py || python cars.py
 ```
 
 
 ![screenshot](nickelback_screenshot.jpg)
+![screenshot](cars_screenshot.jpg)
 
 
 ## License 
